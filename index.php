@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <?php include 'meta.txt'; ?>
-<title>About Us | Brahmins Matrimony |  Remarriage Matrimony | Physically Challenged Matrimony | Iyers Matimonys | Iyengar Matrimonys | Iyer Matimony Websites | Iyengar Matrimony Websites | Bride | Matrimony for physically disabled | Remarriages</title>
+<title>About Us | Brahmins Matrimony  | Iyengar Matrimony Websites | Bride | Matrimony for physically disabled | Remarriages</title>
 <?php include 'includes/css.txt'; ?>
 </head>
 <body id="p2">
